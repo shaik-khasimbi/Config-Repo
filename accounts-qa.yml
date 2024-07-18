@@ -1,0 +1,16 @@
+
+  
+build:
+  version: 2.0
+
+accounts:
+  messgae: "QA environment properties"
+  contactDetails:
+      name: "shaik khasimbi"
+      email: "shaik.khasimbi@capgemini.com"
+  onCallSupport:
+        -(555)555-1234
+        -(555)555-1244					
+
+
+

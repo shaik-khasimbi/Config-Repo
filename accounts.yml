@@ -1,0 +1,16 @@
+
+build:
+  version: 3.0
+
+
+accounts:
+  messgae: "Hello world"
+  contactDetails:
+      name: "shaik khasimbi"
+      email: "shaik.khasimbi@capgemini.com"
+  onCallSupport:
+        -(555)555-1234
+        -(555)555-1244					
+
+
+
